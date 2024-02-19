@@ -6,7 +6,7 @@ public class NotOrtalamasiHesaplama {
         //Değişkenleri Tanımlayalım
         int matematik, fizik, kimya, turkce, tarih, muzik;
 
-        // input için Scanner NEsnesi Oluşturalım
+        // input için Scanner Nesnesi Oluşturalım
 
         Scanner input = new Scanner(System.in);
 
